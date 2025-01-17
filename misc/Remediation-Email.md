@@ -9,7 +9,7 @@ Based on our initial vulnerability scan and assessment, we have created a set of
 2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-protocols.ps1)
 3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-cipher-suites.ps1)
 4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/joshmadakor1/lognpacific-public/blob/main/automation/toggle-guest-local-administrators.ps1)
-5. [**Windows OS Secure Configuration (WinTrustVerify "Enable Padding Check Cert")**] (https://github.com/steven-noel-cruz/SNC-Public/blob/478e56690177017d27fd9981a8a01d82c4ecb724/Automation/WinTrustVerify%20Fix)
+5. [**Windows OS Secure Configuration (WinTrustVerify "Enable Padding Check Cert")**](https://github.com/steven-noel-cruz/SNC-Public/blob/4d3ae4d36dd4b2b5b4648be6111afbf08713f006/Automation/cert-padding-check.ps1)
 
 Let me know if you have any questions or need any adjustments!
 
