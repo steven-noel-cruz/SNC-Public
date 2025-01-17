@@ -9,7 +9,7 @@ Based on our initial vulnerability scan and assessment, we have created a set of
 2. [**Windows OS Secure Configuration (Insecure Protocols)**](https://github.com/steven-noel-cruz/SNC-Public/blob/main/automation/toggle-protocols.ps1)
 3. [**Windows OS Secure Configuration (Insecure Ciphersuites)**](https://github.com/steven-noel-cruz/SNC-Public/blob/main/automation/toggle-cipher-suites.ps1)
 4. [**Windows OS Secure Configuration (Guest Account Group Membership)**](https://github.com/steven-noel-cruz/SNC-Public/blob/main/automation/toggle-guest-local-administrators.ps1)
-5. [**Windows OS Secure Configuration (WinTrustVerify "Enable Padding Check Cert")**](https://github.com/steven-noel-cruz/SNC-Public/blob/main/Automation/cert-padding-check.ps1)
+5. [**Windows OS Secure Configuration (WinVerifyTrust "Enable Cert Padding Check")**](https://github.com/steven-noel-cruz/SNC-Public/blob/main/Automation/cert-padding-check.ps1)
 
 Let me know if you have any questions or need any adjustments!
 
