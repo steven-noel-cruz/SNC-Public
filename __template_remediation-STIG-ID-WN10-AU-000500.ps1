@@ -20,7 +20,12 @@
     PowerShell Ver. : Powershell 5.1
 
 .USAGE
-    Put any usage instructions here.
+# Download the PowerShell script from the URL and execute it
+$scriptUrl = "https://raw.githubusercontent.com/steven-noel-cruz/SNC-Public/main/__template_remediation-STIG-ID-WN10-AU-000500.ps1"
+$scriptContent = Invoke-WebRequest -Uri $scriptUrl -UseBasicParsing | Select-Object -ExpandProperty Content
+
+# Execute the downloaded script
+Invoke-Expression $scriptContent
     Example syntax:
     PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
 #>
